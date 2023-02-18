@@ -18,7 +18,7 @@ const Header = () => {
       </div>
       <div className="title">
         <Link to='/'>
-            <h1>Pizza Joint</h1>
+            <h1>Pizza Spot</h1>
         </Link>
       </div>
     </header>
